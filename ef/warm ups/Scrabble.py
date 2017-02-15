@@ -16,7 +16,7 @@ for letter in word:
     eachTile = value_of_tile[letter]
     total = total + eachTile
 
-print " "
+print "  "
 print "The total value of your word is: "
 print total
 
